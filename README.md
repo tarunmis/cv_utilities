@@ -1,4 +1,4 @@
-# OpenVINO Video Processing
+# Face blur in videos on your *intel laptop/PC
 
 This project utilizes the power of OpenVINO for video processing to detect objects in a video stream, applying a blurring effect to the detected objects. It leverages OpenVINO's inference capabilities along with OpenCV for video manipulation, making it suitable for various applications such as privacy enhancements in video streams.
 
